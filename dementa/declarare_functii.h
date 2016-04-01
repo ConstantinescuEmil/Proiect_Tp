@@ -1,0 +1,11 @@
+int* encrypt(unsigned char c,int k);
+void concat(int**rem,int**p);
+int* impartire(int *p,int**rem);
+void restfin(int**rem);
+unsigned char char_codat(int**p);
+int verif_ok(int*p,int k);
+int*  obt_vct_codat(unsigned char c);
+unsigned char obt_char(int *p,int k);
+void scindare(int**p,int k);
+void bag_vect_la_sf(int **p,int *v);
+int rest0(int*p);
